@@ -10,7 +10,7 @@ The application simulates basic banking operations like creating accounts, depos
 
 - Create a new bank account
 - Deposit money into an account
-- Withdraw money from an accoun
+- Withdraw money from an account
 - Structured using clear object-oriented design
 - Console-based interface (no GUI)
 - Easily extendable and beginner-friendly
